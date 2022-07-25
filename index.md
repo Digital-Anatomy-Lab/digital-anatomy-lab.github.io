@@ -8,7 +8,7 @@
 
 This is the spin viewer.
 
-<script src="https://cdn.scaleflex.it/plugins/js-cloudimage-360-view/3.0.3/js-cloudimage-360-view.min.js"></script> 
+{ % include head.html %}
 
 <div
    class="cloudimage-360"
