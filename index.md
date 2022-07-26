@@ -15,7 +15,7 @@ This is the spin viewer.
    <!-- simply iniatialize it with class name "cloudimage-360", server folder path, file name and amount of images -->
    <div
    class="cloudimage-360"
-   data-folder="images/"
+   data-folder="/images"
    data-filename-x="bild_{index}.jpg"
    data-amount-x="73"
    data-pointer-zoom="2"
