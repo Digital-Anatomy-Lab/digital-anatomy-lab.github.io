@@ -17,4 +17,5 @@ This is the spin viewer.
    data-amount-x="73"
 ></div>
 
-<script src="https://cdn.jsdelivr.net/npm/js-cloudimage-360-view@3.0.3/dist/index.min.js"></script>
+
+<div markdown = "0"></body><script src="https://cdn.jsdelivr.net/npm/js-cloudimage-360-view@3.0.3/dist/index.min.js"></script></div>
